@@ -5,7 +5,7 @@
  The assignment of questions and answers is  the md5sum of the question:
 
  ${MD5SUM}_Q.txt
- -> ${MD5SUM}_A_${UNIXTIME}.txt
+ -> ${MD5SUM}_A-${UNIXTIME}.txt
 
  Every time an answer is inserted via the online interface the question file will 
  also be rewritten,  but since the md5sum stays the same the question file is 
