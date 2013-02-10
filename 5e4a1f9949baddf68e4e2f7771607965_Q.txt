@@ -1,0 +1,1 @@
+I read that Scribus/Inkscape don't have support for Pantone, does that mean I can't do stuff with Pantone colors?

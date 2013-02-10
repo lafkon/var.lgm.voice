@@ -1,0 +1,1 @@
+Sometimes FLOSS is faster, sometimes it's not. It is easier to automate and modify to fit your workflow.

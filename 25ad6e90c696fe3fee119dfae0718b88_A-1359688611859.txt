@@ -1,0 +1,1 @@
+Many FOSS tools also run on OS X. Ubuntu will also run on mac hardware.

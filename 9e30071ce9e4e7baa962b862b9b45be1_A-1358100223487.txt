@@ -1,0 +1,1 @@
+Proprietary software means, fundamentally, that you don&rsquo;t control what it does; you can&rsquo;t study the source code, or change it.

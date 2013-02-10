@@ -1,0 +1,1 @@
+Some print designers publish the source files they used to create their work, in which case you can do this. Some people call this &quot;Open Design&quot;.
