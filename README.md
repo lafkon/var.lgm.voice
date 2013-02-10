@@ -15,3 +15,4 @@
 
  To prevent doubling of slightly different questions (e.g. only differing in spelling)
  you should rename question and answer pairing according to their new md5sum id.
+ This can be done with cleanup.sh (experimental).
