@@ -1,0 +1,1 @@
+they get intimidated, it's hard to develop in a strict language, they are waiting the next version of lisp-ada which will produce any program from a dialog with the computer

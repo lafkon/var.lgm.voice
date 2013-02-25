@@ -1,0 +1,1 @@
+good question. what is this weird packaging system that goes on in the back of the os and only super users can config their computers?
