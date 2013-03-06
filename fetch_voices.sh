@@ -23,6 +23,7 @@
   do     
      if [ `find . -name "$SPAM" | wc -l` -ge 1 ]; then
            echo $SPAM
+           git rm $SPAM
      fi 
  done
 
