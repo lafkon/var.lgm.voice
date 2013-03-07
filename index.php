@@ -23,7 +23,7 @@ foreach($txt as $entry) {
                 $md5 = explode("_", basename($entry, ".txt"));
                 
                 echo "<h2>" .html_entity_decode($file) ."</h2></br>";
-                echo "<b><a href='../../../Q&A-" .$md5[0] ."' class='smalllink'>[WRITE YOUR OPINION]</a>&nbsp;";
+                echo "<b><a href='../../../?Q&A=" .$md5[0] ."' class='smalllink'>[WRITE YOUR OPINION]</a>&nbsp;";
                 echo "<a href='http://www.forkable.eu/generators/r+w/o/__/" .$md5[0] .".html' class='smalllink'>[SEE POSTERS]</a></b>";
                 echo "<ul>";
         } else if(strpos($entry, '_A') != false) {
