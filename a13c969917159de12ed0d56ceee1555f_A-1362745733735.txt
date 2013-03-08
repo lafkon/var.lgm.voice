@@ -1,0 +1,1 @@
+Developers like coding exciting stuff. The basics are not exciting, especially if the users don't complain. Please file a bug to remind them about what's important.

@@ -1,0 +1,1 @@
+alias always-be-polite-and-talk-proper-even-when-non-sensical='awk'

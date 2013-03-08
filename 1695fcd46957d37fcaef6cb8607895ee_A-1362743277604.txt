@@ -1,0 +1,1 @@
+You need to use the Linux installer. Everything will work then.
