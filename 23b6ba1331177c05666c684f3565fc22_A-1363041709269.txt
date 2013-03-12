@@ -1,0 +1,1 @@
+Try google. Often other people have had the same issues and found and posted solutions or workarounds. If it is not the case, file a bug at the project bugtracker.
