@@ -1,1 +1,1 @@
-On the com&shy;mand line, usage seam&shy;lessly extends into pro&shy;gram&shy;ming. It pro&shy;vides func&shy;tions, not appli&shy;ca&shy;tions; meth&shy;ods, not solu&shy;tions!
+On the commandline the application can be built, and the solution invented, by users themselves.
