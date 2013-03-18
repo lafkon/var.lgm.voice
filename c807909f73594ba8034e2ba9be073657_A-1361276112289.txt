@@ -1,1 +1,1 @@
-no you don't. what you want is to build your program that does what you want in this fancy calculator
+No you don't. What you want is to build your program that does what you want in this fancy calculator.

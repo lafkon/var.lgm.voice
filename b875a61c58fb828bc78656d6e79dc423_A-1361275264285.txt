@@ -1,1 +1,1 @@
-would you rather have memory address to call? its just symbolics, up to you to map it up
+Would you rather have memory address to call? It's just symbolics, up to you to map it up.

@@ -1,1 +1,1 @@
-from microsoft, apple, adobe, etc
+From microsoft, apple, adobe, etc
