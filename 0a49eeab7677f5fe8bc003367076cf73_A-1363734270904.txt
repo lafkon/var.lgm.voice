@@ -1,0 +1,1 @@
+cat menu | grep shrimp | test -lt $10
