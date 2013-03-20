@@ -1,0 +1,1 @@
+Because the &quot;Unix philosophy&quot; is small, specific applications to do small, specific jobs. The Windows philosophy is bloatware spoiled by too many cooks.

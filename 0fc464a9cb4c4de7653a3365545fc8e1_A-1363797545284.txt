@@ -1,0 +1,1 @@
+True, but will not run natively on Linux, and not Free or Libre. 

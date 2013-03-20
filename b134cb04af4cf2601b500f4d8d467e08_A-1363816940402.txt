@@ -1,0 +1,1 @@
+No, most good Libre apps have localization support.
