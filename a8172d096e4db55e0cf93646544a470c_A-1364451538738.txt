@@ -1,0 +1,1 @@
+thanks for the quick reply. i am trying the FileZilla as we speak, no .maintenance file again. The truolbe i am having is updating WordPress to 3.3.2. When i click update, it times out and i get a 500 internal server error. This is so frustrating.
