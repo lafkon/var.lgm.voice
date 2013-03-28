@@ -1,0 +1,1 @@
+Since Ubuntu came out everyone's now itertesned in Debian-based distros like Ubuntu and Knoppix. What about stats for books about Suse and Mandriva? Their hits per day on Distrowatch are going down, while every one of the Debian based distros is either steady or going up.
