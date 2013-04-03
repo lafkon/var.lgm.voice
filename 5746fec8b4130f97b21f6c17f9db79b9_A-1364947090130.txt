@@ -1,0 +1,1 @@
+Probably not, because Apple designed the iPhone developer license terms to be incompatible with FLOSS.
