@@ -1,0 +1,1 @@
+There should be an arrow on the screen that points to the left. Click that.
