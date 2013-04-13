@@ -1,0 +1,1 @@
+In some cases, a command line can be a faster way to interact with a software because you don't have to load up a large interface with 30 options to achieve a single result. You can just type in what you need really quick and bam-an outcome.
