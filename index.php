@@ -6,8 +6,8 @@ href="../../../q+a.css" type="text/css" />
 </head>
 <body style="margin: 40px; width: 400px;">
 <div class="allvoices">
-
 <?php
+
  $voicedirectory  = ".";
  $txt = array_reverse(glob($voicedirectory."/*.txt"));
  $firstrun = true;
