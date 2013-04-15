@@ -6,6 +6,7 @@ href="../../../q+a.css" type="text/css" />
 </head>
 <body style="margin: 40px; width: 400px;">
 <div class="allvoices">
+
 <?php
 
  $voicedirectory  = ".";
@@ -32,6 +33,7 @@ foreach($txt as $entry) {
 }
 
 ?>
+
 </div>
 <br/><br/><br/><br/>
 </body>
